@@ -1,0 +1,29 @@
+To check action: Cntrl+shift+A
+
+1-- To Open Settings: Cntrl+Alt+S
+2-- Install presentation mode plugin sothat whenver you press any key it displays a pop up
+3--Find for class: Cntrl+N
+4--Find for any file: Cntrl+Shift+N
+
+We could also use 3 and 4 to navigate in the folders : Put /src 
+
+5--To find something: Cntrl +Shift +F
+6--Double shift: search anything anywhere 
+7-- remove using tabs: go to settings,search for "tabs": In editor tabs: choose option none
+8--show recent files: Cntrl+E
+9--show recent edited files: Cntrl+Shift+E
+10--Enable autoscrol: goto the setting part in the project: and enable autosource from source
+11--create directory: /abc/cde/egh
+12--Resize windows: cntrl+shift+left/right
+13--To select code: Cntrl+We
+14--to move code up and down: Select using the above way: Shift Alt+up/dpwm
+15-- To inject json in java string: Alt+Enter:choose inject json: Need practise for this one.
+16--To show parameters info enter Contrl+P in ()
+17--To use templates: Cntrl+J. We could also define our own templates
+18--To add surround with: Cntrl+Alt+T
+19--To add semicolon automatically: shift+cntrl+Enter
+20--To get full structure of a class: Alt+7
+21--Switch off the navigation bar from "view"
+21-- To invoke the navigation bar: ALt+Home
+22--Structural search: It uses a template to find the code
+23--Switch theme: Cntrl+~
